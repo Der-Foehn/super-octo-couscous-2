@@ -2,7 +2,8 @@
 ################################################################################
 # Original Author:   crombiecrunch
 # Fork Author: manfromafar
-# Current Author: Xavatar
+# Fork Author: Xavatar
+# Current Author: Der-Foehn
 # Web:     
 #
 # Program:
@@ -952,7 +953,10 @@ sudo mv $HOME/yiimp/ $HOME/yiimp-install-only-do-not-run-commands-from-this-fold
 sudo service nginx restart
 sudo service php7.0-fpm reload
 
+
+output "Now my own part"
 output "Loading Scrypticons..." 
+sleep 2
 cd
 mkdir scrypts
 cd scrypts
