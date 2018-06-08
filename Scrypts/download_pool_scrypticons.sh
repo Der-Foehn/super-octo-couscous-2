@@ -9,4 +9,3 @@ sudo wget https://github.com/Der-Foehn/super-octo-couscous-2/tree/master/Scrypts
 sudo wget https://github.com/Der-Foehn/super-octo-couscous-2/tree/master/Scrypts/xcoind_stop_all.sh;
 sudo wget https://github.com/Der-Foehn/super-octo-couscous-2/tree/master/Scrypts/xkill-reboot-Stratum-screens.sh;
 sudo wget https://github.com/Der-Foehn/super-octo-couscous-2/tree/master/Scrypts/xrootaccess.sh;
-sudo wget https://github.com/Der-Foehn/super-octo-couscous-2/tree/master/Scrypts/xrootaccess.sh;
